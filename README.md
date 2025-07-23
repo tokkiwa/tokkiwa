@@ -1,6 +1,6 @@
 ## About me 👋
-I am *Shimon Murai*, a master course student at [Katto Laboratory](https://www.katto.comm.waseda.ac.jp/) in Waseda University. 
-My interest is in *Deep Learning*, *Image Processsing* and *Neural Image Compression*. Check out my [Google Scholar](https://scholar.google.com/citations?user=i146ie4AAAAJ&hl=en).
+I am **Shimon Murai**, a master course student at [Katto Laboratory](https://www.katto.comm.waseda.ac.jp/) at Waseda University, Tokyo, Japan. 
+My interests are in **Deep Learning**, **Image Processsing** and **Neural Image Compression**. Check out my papers at [Google Scholar](https://scholar.google.com/citations?user=i146ie4AAAAJ&hl=en).
 Detailed profiles (in Japanese) are [Here](https://tokkiwa.github.io/myprofile/)! 
 <!--
 **tokkiwa/tokkiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
