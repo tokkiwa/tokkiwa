@@ -1,5 +1,5 @@
 ## New Release ⚡
-I made[ a simple web application named `arxivcite`](https://github.com/tokkiwa/arxivcite). This app allows you to easily cite arxiv's paper, with various format and style, by just changing the url (e.g. `arxiv.org/pdf/xxxx:xxxxx` to `arxivcite.org/pdf/xxxx:xxxxx`. [Check it out! ](https://github.com/tokkiwa/arxivcite)
+I made[ a simple web application named `arxivcite`](https://github.com/tokkiwa/arxivcite). This app allows you to easily cite arxiv's paper, with various format and style, by just changing the url (e.g. `arxiv.org/pdf/xxxx:xxxxx` to `arxivcite.org/pdf/xxxx:xxxxx`) on your browser. [Check it out! ](https://github.com/tokkiwa/arxivcite)
 
 
 ## About me 👋
