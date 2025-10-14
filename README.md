@@ -3,7 +3,7 @@
 Our new paper, "FlashGMM: Fast Gaussian Mixture Entropy Model for Learned Image Compression" is accepted by IEEE VCIP 2025! 
 
 This paper accelerates the Gaussian Mixture Model (GMM), an well-known probability model of learned image compression, by ~90x while slighly improving its performance. 
-I have submitted the pre-print version to arXiv. So it will be made available in a few days. Codes are released under [my repo!](https://github.com/tokkiwa/FlashGMM)
+I have submitted the pre-print version to [arXiv](https://arxiv.org/abs/2509.18815). Codes are released under [my repo!](https://github.com/tokkiwa/FlashGMM)
 
 
  
