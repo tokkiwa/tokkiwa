@@ -6,11 +6,6 @@ This paper accelerates the Gaussian Mixture Model (GMM), an well-known probabili
 I have submitted the pre-print version to [arXiv](https://arxiv.org/abs/2509.18815). Codes are released under [my repo!](https://github.com/tokkiwa/FlashGMM)
 
 
- 
-## 25/07/24 I built a Web Application ⚡
-I made[ a simple web application named `arxivcite`](https://github.com/tokkiwa/arxivcite). This app allows you to easily cite arxiv's paper, with various format and style, by just changing the url (e.g. `arxiv.org/pdf/xxxx:xxxxx` to `arxivcite.org/pdf/xxxx:xxxxx`) on your browser. [Check it out! ](https://github.com/tokkiwa/arxivcite)
-
-
 ## About me 👋
 I am **Shimon Murai**, a master course student at [Katto Laboratory](https://www.katto.comm.waseda.ac.jp/) at Waseda University, Tokyo, Japan. 
 My interests are in **Deep Learning**, **Image Processsing** and **Neural Image Compression**. Check out my papers at [Google Scholar](https://scholar.google.com/citations?user=i146ie4AAAAJ&hl=en).
